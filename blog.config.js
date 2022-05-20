@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: 'shan的互联网自留地',
   author: 'shan',
   email: 'iks@live.com',
   link: 'https://blog.shancn.com',
